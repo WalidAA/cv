@@ -237,7 +237,6 @@ ul#nav li.current a { color: #0cc; }
 
 #resume {
    background: #fff;
-   padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
 }
@@ -261,10 +260,14 @@ ul#nav li.current a { color: #0cc; }
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
 
-.education, .work , .skill {
-   margin-bottom: 48px;
+.education, .work , .skill, .projects {
+   padding-top: 60px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
+}
+.hobbies{
+   padding-top: 60px;
+   padding-bottom: 24px;
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
