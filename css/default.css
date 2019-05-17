@@ -156,10 +156,8 @@ body {
 .tabulation { padding-left: 40px; padding-top: 0px; }
 
 /* custom styling for all icons */
-.fa_icons i.fas,
-.fa_icons i.fab,
-.fa_icons i.far {
-	color: #11ABB0;
+.fa_icons span {
+	font-weight: bold;
 }
 
 .fa_icons h3 { margin: 20px 0 10px 0; }
