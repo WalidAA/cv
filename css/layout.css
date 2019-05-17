@@ -257,8 +257,8 @@ ul#nav li.current a { color: #0cc; }
    font: 25px/30px 'opensans-bold', sans-serif;
 }
 
-#resume .header-col { padding-top: 9px; width: 220px; }
-#resume .main-col { padding-right: 10%; width: 800px; height: auto; }
+#resume .header-col { padding-top: 9px; width: 25%; }
+#resume .main-col { padding-right: 10%; width: 75%; height: auto; }
 
 .education, .work , .skill, .projects {
    padding-top: 60px;
